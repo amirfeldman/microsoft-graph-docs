@@ -901,7 +901,7 @@
 					"ApiChange": "Property",
 					"ChangedApiName": "displayName",
 					"ChangeType": "Addition",
-                    "Description": "Added the `displayName` member to the [security-useraccount](https://learn.microsoft.com/en-us/graph/api/resources/security-useraccount?view=graph-rest-1.0) resource.",
+                    "Description": "Added the **displayName** property to the [security-useraccount](https://learn.microsoft.com/en-us/graph/api/resources/security-useraccount?view=graph-rest-1.0) resource.",
                     "Target": "security-useraccount"
 				}
 			],
@@ -919,7 +919,7 @@
 					"ApiChange": "Property",
 					"ChangedApiName": "displayName",
 					"ChangeType": "Addition",
-                    "Description": "Added the `displayName` member to the [security-useraccount](https://learn.microsoft.com/en-us/graph/api/resources/security-useraccount?view=graph-rest-beta) resource.",
+                    "Description": "Added the **displayName** property to the [security-useraccount](https://learn.microsoft.com/en-us/graph/api/resources/security-useraccount?view=graph-rest-beta) resource.",
                     "Target": "security-useraccount"
 				}
 			],
